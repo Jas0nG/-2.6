@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYZ2ENU_Window", "大地测量2.6\XYZ2ENU_Window.csproj", "{A447D585-8AFD-4F28-9C4E-4E06B64030E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYZ2ENU_ Source", "XYZ2ENU\XYZ2ENU_ Source.csproj", "{A44A903A-068E-4E9B-882C-6C316F0E68F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A447D585-8AFD-4F28-9C4E-4E06B64030E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A447D585-8AFD-4F28-9C4E-4E06B64030E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A447D585-8AFD-4F28-9C4E-4E06B64030E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A447D585-8AFD-4F28-9C4E-4E06B64030E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44A903A-068E-4E9B-882C-6C316F0E68F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44A903A-068E-4E9B-882C-6C316F0E68F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44A903A-068E-4E9B-882C-6C316F0E68F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44A903A-068E-4E9B-882C-6C316F0E68F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23AEC7BD-62DA-47FE-9E99-776EF61C074B}
+	EndGlobalSection
+EndGlobal
